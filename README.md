@@ -30,7 +30,7 @@
 <h3 align="left">✨ Interests</h3>
 
 <p align="left">
-- 🏐 Sports (especially team sports)<br>
+- 🏐 Sports <br>
 - 🎬 Anime<br>
 - 🎨 Art & creative design<br>
 - 🎵 Music
