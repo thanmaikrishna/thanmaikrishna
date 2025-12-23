@@ -22,16 +22,29 @@
 <p align="left">
 - 🔭 I’m currently working on <b>SOC Project</b><br>
 - 🌱 I’m currently learning <b>MongoDB, SOC</b><br>
-- 📫 How to reach me: <b>nthanmaikrishna70@gmail.com</b>
+- 🎯 I enjoy building backend logic and understanding how systems work<br>
 </p>
 
 ###
 
-<h3 align="left">🤝 Connect with me</h3>
+<h3 align="left">✨ Interests</h3>
 
 <p align="left">
+- 🏐 Sports (especially team sports)<br>
+- 🎬 Anime<br>
+- 🎨 Art & creative design<br>
+- 🎵 Music
+</p>
+
+###
+
+<h3 align="left">📫 How to Contact Me</h3>
+
+<p align="left">
+- 📧 Email: <b>nthanmaikrishna70@gmail.com</b><br>
+- 💼 LinkedIn:
   <a href="https://linkedin.com/in/thanmai-nutheti" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Thanmai Nutheti" height="30" width="40" />
+    Thanmai Nutheti
   </a>
 </p>
 
