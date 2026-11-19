@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
@@ -13,17 +14,27 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Thanmai</h1>
-<h3 align="center">Passionate full-stack developer with a strong interest in backend development.</h3>
+<h3 align="center">Computer Science Graduate interested in Backend Development and Cybersecurity.</h3>
 
 ###
 
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-- 🔭 I’m currently working on <b>SOC Project</b>, building backend logic and cloud integrations<br>
-- 🌱 I’m currently learning <b>MongoDB</b> and exploring advanced SOC concepts<br>
-- 🎯 I enjoy designing systems, solving complex problems, and improving my full-stack skills<br>
-- 💡 Motivated to build scalable, real-world applications and enhance my backend expertise
+- 🔭 I'm working on security-focused applications and SOC projects<br>
+- 🌱 I'm learning backend development, cloud security, and system design<br>
+- 🎯 I enjoy designing systems, solving problems, and building practical applications<br>
+- 💡 Interested in software engineering, cybersecurity, and real-world technologies
+</p>
+
+###
+
+<h3 align="left">🚀 Projects</h3>
+
+<p align="left">
+- 🔐 <b><a href="YOUR_SECURE_QR_SENTINEL_REPO_LINK">Secure QR Sentinel</a></b> — Scans QR codes, analyzes decoded content, and assesses potential URL threats using heuristics and threat intelligence<br><br>
+- 🛡️ <b><a href="YOUR_SOC_PROJECT_REPO_LINK">Security Event Monitoring & Incident Management</a></b> — A SOC lab project using Wazuh for security monitoring, log collection, and incident investigation<br><br>
+- ☁️ <b><a href="YOUR_CLOUD_LOG_ANALYTICS_REPO_LINK">Scalable Cloud Log Analytics Engine</a></b> — A Flask-based application for cloud log processing and analysis using AWS services and rule-based detection
 </p>
 
 ###
@@ -44,7 +55,7 @@
 <p align="left">
 - 📧 Email: <b>nthanmaikrishna70@gmail.com</b><br>
 - 💼 LinkedIn:
-  <a href="https://linkedin.com/in/thanmai-nutheti" target="_blank">
+  <a href="https://www.linkedin.com/in/thanmai-nutheti-53352325a/" target="_blank">
     Thanmai Nutheti
   </a>
 </p>
@@ -55,35 +66,35 @@
 
 <div align="left">
   <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="sql" />
   <img width="12" />
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css" />
+  <img width="12" />
 
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
   <img width="12" />
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
-  <img width="12" />
-
-  <!-- DevOps / Cloud -->
+  <!-- Cloud & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
 </div>
+
+<p align="left">
+<b>Security & Cloud:</b> AWS (S3, IAM, CloudTrail), Nmap<br>
+<b>Web & Development:</b> REST APIs<br>
+<b>CS Fundamentals:</b> OOP, Data Structures & Algorithms, DBMS, Operating Systems
+</p>
